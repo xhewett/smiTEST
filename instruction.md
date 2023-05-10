@@ -4,7 +4,7 @@ Ingredients:
 
 - 2 avocados
 - 1 lime
-- 2 tsp salt
+- 2 tsp salt (optional low sodium: 1 tsp salt)
  
 Instructions:
 - cut and mash avocados
@@ -12,4 +12,4 @@ Instructions:
 - squeeze lime
 - add salt
 - add freseh lemon juice
--and mix well
+- and mix well
